@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703197972 source:c:\users\jefra\documents\pensamiento computacional practica de laboratorio ii\formula general\main.cpp
+	<iostream>
+	<math.h>
+
